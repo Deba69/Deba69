@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Debasis Chattaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34B5EE&background=FCFCFC00&width=435&lines=Information+Technology+Student+at+IPU+;Competitive+Programmer;1x+hackathon+winner;Always+learning+new+things" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFFDCF3&background=FCFCFC00&vCenter=true&width=435&lines=Computer+Science+Student+at+IPU+;Competitive+Programmer;1x+hackathon+winner;Always+learning+new+things;MERN+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 
