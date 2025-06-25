@@ -13,7 +13,6 @@
 <!-- About Me Section -->
 <div align="center">
 
-<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="80px"> </picture>
 <h3>A Little More About Me...</h3>
 
 </div>
