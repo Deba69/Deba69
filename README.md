@@ -7,9 +7,6 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFFDCF3&background=FCFCFC00&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+IPU+;Competitive+Programmer;1x+hackathon+winner;Always+learning+new+things;MERN+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <em>Driven Information Technology student with a passion for building innovative solutions and excelling in competitive programming. <br> Actively seeking challenging opportunities to learn, grow, and contribute.</em>
-</p>
 
 <br>
 
