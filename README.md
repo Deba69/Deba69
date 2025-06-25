@@ -24,7 +24,7 @@
 - 🎓 I'm a 2nd year **Information Technology** student at [Guru Gobind Singh Indraprastha University (GGSIPU)](https://www.ipu.ac.in/) ([*Link to Uni*](https://www.ipu.ac.in/)).
 - 💡 Passionate about leveraging **software to solve real-world problems** and always eager to learn.
 - 👨‍💻 Aspiring **MERN Stack Developer** and avid **Competitive Programmer**.
-- 🏆 Proud **1x Hackathon Winner**! ([*Feel free to add details: e.g., "Winner of XYZ Hackathon for developing a solution for ABC problem"*]).
+- 🏆 Proud **1x Hackathon Winner**! (Smart Delhi Ideathon).
 - 🌱 Currently diving deeper into **Advanced Data Structures, Algorithms, and System Design principles**.
 - 🚀 I'm actively looking for **internship/job opportunities**! Here's [**MY RESUME**](https://drive.google.com/drive/folders/1SCbiQvqZT-9dFthDzWeXO6azk0XvDOjk?usp=sharing).
 
