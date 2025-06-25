@@ -21,7 +21,7 @@
 
 </div>
 
-- 🎓 I'm a 2nd year **Information Technology** student at [Guru Gobind Singh Indraprastha University (GGSIPU)](https://www.ipu.ac.in/) ([*Link to Uni*](https://www.ipu.ac.in/)).
+- 🎓 I'm a 2nd year **Information Technology** student at [Guru Gobind Singh Indraprastha University (GGSIPU)](http://www.ipu.ac.in/)
 - 💡 Passionate about leveraging **software to solve real-world problems** and always eager to learn.
 - 👨‍💻 Aspiring **MERN Stack Developer** and avid **Competitive Programmer**.
 - 🏆 Proud **1x Hackathon Winner**! (Smart Delhi Ideathon).
