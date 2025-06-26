@@ -42,28 +42,62 @@
 
 ## <picture> <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> </picture> Featured Projects
 
-<!-- 
-💡 Tip: Showcase 2-3 of your best projects. Include:
-- Project Name & Link to Repo/Demo
-- Brief Description (1-2 sentences)
-- Key Technologies Used (e.g., using shields.io badges)
+<!--
+💡 Tip:
+- Upload your project screenshots to an `assets` folder in this repository.
+- Update the `assets/your-image-name.png` paths below.
+- Replace `#` in "Live Demo" links with actual URLs or remove if not applicable.
 -->
 
+---
+
 <p align="center">
-  <em>(Coming Soon! Currently curating my best work to showcase here.)</em>
-  <br><br>
-  <!-- Example Project Structure (Uncomment and replace with your project) -->
-  <!--
-  **Project Name 1** | [GitHub Repo](link-to-your-repo) | [Live Demo (if any)](link-to-demo)
-  > A brief description of your project, the problem it solves, or its key features.
-  > _Tech Stack: <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> etc._
-  ---
-  **Project Name 2** | [GitHub Repo](link-to-your-repo)
-  > Another cool project description.
-  > _Tech Stack: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> etc._
-  -->
+  <img src="assets/ai_notes_maker.png" alt="AI Notes Maker Screenshot" width="700">
 </p>
 
+**AI-Powered Lecture Notes Generator** | [GitHub Repo](https://github.com/Deba69/Ai-notes-maker) | [Live Demo](#) <!-- Replace # with actual live link -->
+> - Engineered a real-time web application that records classroom lectures, converts speech-to-text, and uses an LLM to generate concise, context-aware notes, filtering out irrelevant chatter.
+> - Implemented a sophisticated backend pipeline using Node.js that processes audio streams, calls the Whisper API for transcription, and then feeds the text to a GPT model for intelligent summarization.
+>
+> _Tech Stack:_
+> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+> <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white">
+> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
+
+---
+
+<p align="center">
+  <img src="assets/cpp_visualizer.png" alt="C++ Code Visualizer Screenshot" width="700">
+</p>
+
+**Interactive C++ Code Visualizer** | [GitHub Repo](https://github.com/Deba69/C-Degugger) | [Live Demo](#) <!-- Replace # with actual live link -->
+> - Developed an educational tool to help beginners learn C++ by visualizing code execution, including a step-by-step dry run, variable state changes, and a dynamic function call stack.
+> - Created a dynamic front-end using React and D3.js to render an interactive visualization of recursion and function lifecycles, improving comprehension of complex concepts.
+>
+> _Tech Stack:_
+> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=black">
+> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
+
+---
+
+**Personalized Jarvis Assistant** | [GitHub Repo](https://github.com/Deba69/Personal-Jarvis/tree/main/Jarvis) | [Live Demo](#) <!-- Replace # with actual live link -->
+> - Developed a Python-based AI assistant using SpeechRecognition, pyttsx3, FastAPI, spaCy/NLTK, and os/subprocess to execute natural language voice commands.
+> - Implemented system control, web automation, and task scheduling with a modular, extensible architecture supporting plug-in commands and user-specific personalization.
+>
+> _Tech Stack:_
+> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white">
+> <img src="https://img.shields.io/badge/SpeechRecognition-4A90E2?style=for-the-badge"> <!-- Generic badge -->
+> <img src="https://img.shields.io/badge/pyttsx3-DB7093?style=for-the-badge"> <!-- Generic badge -->
+
+---
 ---
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"> </picture> My Competitive Programming Profiles
