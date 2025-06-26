@@ -44,8 +44,7 @@
   <img src="assets/ai_notes_maker.png" alt="AI Notes Maker Screenshot" width="700">
 </p>
 
-**AI-Powered Lecture Notes Generator** | [GitHub Repo](https://github.com/Deba69/Ai-notes-maker)  <!-- Replace # with actual live link -->
-> - Engineered a real-time web application that records classroom lectures, converts speech-to-text, and uses an LLM to generate concise, context-aware notes, filtering out irrelevant chatter.
+**AI-Powered Lecture Notes Generator** | <a href="https://github.com/Deba69/Ai-notes-maker" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Repo" width="24" height="24"></a> <!-- Replace # with actual live link for demo -->> - Engineered a real-time web application that records classroom lectures, converts speech-to-text, and uses an LLM to generate concise, context-aware notes, filtering out irrelevant chatter.
 > - Implemented a sophisticated backend pipeline using Node.js that processes audio streams, calls the Whisper API for transcription, and then feeds the text to a GPT model for intelligent summarization.
 >
 >> _Tech Stack:_
