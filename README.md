@@ -28,17 +28,6 @@
 
 ---
 
-## <picture> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/OS%20%D9%85%D8%AA%D9%86%D9%88%D8%B9%D9%87.gif" width="40" /> </picture> My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebasisChattaraj&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Debasis's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasisChattaraj&layout=compact&theme=radical&hide_border=true" alt="Debasis's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebasisChattaraj&theme=radical&hide_border=true" alt="Debasis's GitHub Streak" />
-</p>
-
----
 
 ## <picture> <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> </picture> Featured Projects
 
