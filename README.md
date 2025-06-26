@@ -29,7 +29,7 @@
 ---
 
 
-## <picture> <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> </picture> Featured Projects
+## <picture> <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="50"> </picture> Featured Projects
 
 <!--
 💡 Tip:
