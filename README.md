@@ -48,15 +48,24 @@
 > - Engineered a real-time web application that records classroom lectures, converts speech-to-text, and uses an LLM to generate concise, context-aware notes, filtering out irrelevant chatter.
 > - Implemented a sophisticated backend pipeline using Node.js that processes audio streams, calls the Whisper API for transcription, and then feeds the text to a GPT model for intelligent summarization.
 >
-> _Tech Stack:_
+>> _Tech Stack:_
+> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 > <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
 > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-> <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white">
-> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
-
----
+> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+> <img src="https://img.shields.io/badge/Gemini_AI-4A90E2?style=for-the-badge&logo=google&logoColor=white">
+> <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"> <!-- Using Chrome logo as it's a browser API -->
+> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=white">
+> <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+> <img src="https://img.shields.io/badge/Service_Workers-FF9800?style=for-the-badge&logo=html5&logoColor=white"> <!-- Using HTML5 logo as SW are part of web standards -->
+> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
+> <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white">
 
 <p align="center">
   <img src="assets/cpp_visualizer.png" alt="C++ Code Visualizer Screenshot" width="700">
