@@ -44,7 +44,7 @@
   <img src="assets/ai_notes_maker.png" alt="AI Notes Maker Screenshot" width="700">
 </p>
 
-**AI-Powered Lecture Notes Generator** | [GitHub Repo](https://github.com/Deba69/Ai-notes-maker) | [Live Demo](#) <!-- Replace # with actual live link -->
+**AI-Powered Lecture Notes Generator** | [GitHub Repo](https://github.com/Deba69/Ai-notes-maker)  <!-- Replace # with actual live link -->
 > - Engineered a real-time web application that records classroom lectures, converts speech-to-text, and uses an LLM to generate concise, context-aware notes, filtering out irrelevant chatter.
 > - Implemented a sophisticated backend pipeline using Node.js that processes audio streams, calls the Whisper API for transcription, and then feeds the text to a GPT model for intelligent summarization.
 >
@@ -71,7 +71,7 @@
   <img src="assets/cpp_visualizer.png" alt="C++ Code Visualizer Screenshot" width="700">
 </p>
 
-**Interactive C++ Code Visualizer** | [GitHub Repo](https://github.com/Deba69/C-Degugger) | [Live Demo](#) <!-- Replace # with actual live link -->
+**Interactive C++ Code Visualizer** | [GitHub Repo](https://github.com/Deba69/C-Degugger) |<!-- Replace # with actual live link -->
 > - Developed an educational tool to help beginners learn C++ by visualizing code execution, including a step-by-step dry run, variable state changes, and a dynamic function call stack.
 > - Created a dynamic front-end using React and D3.js to render an interactive visualization of recursion and function lifecycles, improving comprehension of complex concepts.
 >
@@ -87,7 +87,7 @@
 > <img src="https://img.shields.io/badge/GDB-C80000?style=for-the-badge&logo=gnu-bash&logoColor=white"> <!-- Using GNU Bash icon as a placeholder for GDB, or remove logo -->
 ---
 
-**Personalized Jarvis Assistant** | [GitHub Repo](https://github.com/Deba69/Personal-Jarvis/tree/main/Jarvis) | [Live Demo](#) <!-- Replace # with actual live link -->
+**Personalized Jarvis Assistant** | [GitHub Repo](https://github.com/Deba69/Personal-Jarvis/tree/main/Jarvis) <!-- Replace # with actual live link -->
 > - Developed a Python-based AI assistant using SpeechRecognition, pyttsx3, FastAPI, spaCy/NLTK, and os/subprocess to execute natural language voice commands.
 > - Implemented system control, web automation, and task scheduling with a modular, extensible architecture supporting plug-in commands and user-specific personalization.
 >
