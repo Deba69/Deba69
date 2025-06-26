@@ -75,13 +75,16 @@
 > - Developed an educational tool to help beginners learn C++ by visualizing code execution, including a step-by-step dry run, variable state changes, and a dynamic function call stack.
 > - Created a dynamic front-end using React and D3.js to render an interactive visualization of recursion and function lifecycles, improving comprehension of complex concepts.
 >
-> _Tech Stack:_
-> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+>> _Tech Stack:_
 > <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=black">
+> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
-
+> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+> <img src="https://img.shields.io/badge/WebSocket-019784?style=for-the-badge&logo=websocket&logoColor=white">
+> <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+> <img src="https://img.shields.io/badge/GCC-F67D3B?style=for-the-badge&logo=gcc&logoColor=white">
+> <img src="https://img.shields.io/badge/GDB-C80000?style=for-the-badge&logo=gnu-bash&logoColor=white"> <!-- Using GNU Bash icon as a placeholder for GDB, or remove logo -->
 ---
 
 **Personalized Jarvis Assistant** | [GitHub Repo](https://github.com/Deba69/Personal-Jarvis/tree/main/Jarvis) | [Live Demo](#) <!-- Replace # with actual live link -->
