@@ -22,7 +22,7 @@
 - 👨‍💻 Aspiring **MERN Stack Developer** and avid **Competitive Programmer**.
 - 🏆 Proud **1x Hackathon Winner**! (Smart Delhi Ideathon).
 - 🌱 Currently diving deeper into **Advanced Data Structures, Algorithms, and System Design principles**.
-- 🚀 I'm actively looking for **internship/job opportunities**! Here's [**MY RESUME**](https://drive.google.com/drive/folders/1SCbiQvqZT-9dFthDzWeXO6azk0XvDOjk?usp=sharing).
+- 🚀 I'm actively looking for **internship/job opportunities**! Here's [**MY RESUME**](https://drive.google.com/file/d/1eQ-tlorSeXsDH30MvB01Z21DpCgbGrj1/view?usp=sharing).
 
 <br>
 
