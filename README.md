@@ -7,7 +7,6 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFFDCF3&background=FCFCFC00&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+IPU+;Competitive+Programmer;1x+hackathon+winner;Always+learning+new+things;MERN+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
 
 <!-- About Me Section -->
@@ -22,7 +21,7 @@
 - 👨‍💻 Aspiring **MERN Stack Developer** and avid **Competitive Programmer**.
 - 🏆 Proud **1x Hackathon Winner**! (Smart Delhi Ideathon).
 - 🌱 Currently diving deeper into **Advanced Data Structures, Algorithms, and System Design principles**.
-- 🚀 I'm actively looking for **internship/job opportunities**! Here's [**MY RESUME**](https://drive.google.com/file/d/1eQ-tlorSeXsDH30MvB01Z21DpCgbGrj1/view?usp=sharing).
+- 🚀 I'm actively looking for **internship/job opportunities**! Here's [**MY RESUME**](https://drive.google.com/file/d/1cudQzuAQi7d6S3ldLEuKeWP6hN_Iwmar/view?usp=sharing).
 
 <br>
 
